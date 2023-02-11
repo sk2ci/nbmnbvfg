@@ -1,0 +1,23 @@
+{
+    "bot": {
+        "prefix": "!",
+        "id": "1040718768940265477",
+        "secret": "4r9U-_J1cC2fc2pZSa7tjMP92il7LuLl"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://exclusive-mammoth-abrosaurus.glitch.me/",
+        "callback": "https://exclusive-mammoth-abrosaurus.glitch.me/callback",
+        "discord_server_ID": "1061984260837351464",
+        "owners": [
+            "743421204735590441"
+        ],
+        "arc": {
+            "enabled": "false",
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://kyrolexkrsdsm2313:kyrolex05@cluster0.o1tszhn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "discord": "https://discord.gg/EQyG5JhE",
+    "logs": "1068490755779338260"
+}
